@@ -1255,7 +1255,7 @@ _(2021-11-03) 最後のまとめ資料です．開発としては，ほぼ終了
 
 参考文献
 
-- [コンソールエミュレータについて](https://github.com/jay-kumogata/InfoNES/tree/master/doc/011021_ConsoleEmulator)（エミュレータ構成法について解説がある）
+- [コンソールエミュレータについて](https://github.com/jay-kumogata/InfoNES/tree/master/doc/011021_ConsoleEmulator.md)（エミュレータ構成法について解説がある）
 - [光速船・Vectrexに関するコラム](http://vectrex.takuranke.com/vectrex_column.html)（ベクタースキャン方式について解説がある）
 
 ### 2006-08-15
@@ -1296,7 +1296,7 @@ _また，エミュレータ開発は中止と言いつつも，[PyChip8](https:
 
 ### 2021-10-28
 
-15年前に執筆した光速船エミュレータ開発記を[GitHub](https://github.com/jay-kumogata/InfoVectrex/tree/master/doc/050605_DevNote/)の方に復刻しています．
+15年前に執筆した光速船エミュレータ開発記を[GitHub](https://github.com/jay-kumogata/InfoVectrex/tree/master/doc/050605_DevNote.md)の方に復刻しています．
 「100日後に完成する光速船エミュレータ」のような仕上がりになりました（嘘です）．
 
 以上
